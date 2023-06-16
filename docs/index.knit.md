@@ -7,9 +7,7 @@ output:
     css: "style.css"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 选修“环境数据分析与可视化”的同学们，你们好，这个网页是为你而建的。这是这学期我们这门课的最后一讲，你将学习如何建一个完全由你控制的，专业的，学术的网页，并把这个网页托管在GitHub网站，向全世界开放，展示你的想法、学术笔记、科研成果等等。
 
@@ -26,9 +24,10 @@ github网站链接：https://github.com/
 
 <br/> 
 
-```{r img-with-knitr, echo=FALSE, fig.align='center', out.width='100%', fig.cap=' '}
-knitr::include_graphics("pics/pic1.png")
-```
+<div class="figure" style="text-align: center">
+<img src="pics/pic1.png" alt=" " width="100%" />
+<p class="caption"> </p>
+</div>
 
 <br/>   
   
@@ -42,9 +41,10 @@ knitr::include_graphics("pics/pic1.png")
 
 <br/> 
 
-```{r img-with-knitr2, echo=FALSE, fig.align='center', out.width='100%', fig.cap=' '}
-knitr::include_graphics("pics/pic1a.png")
-```
+<div class="figure" style="text-align: center">
+<img src="pics/pic1a.png" alt=" " width="100%" />
+<p class="caption"> </p>
+</div>
 
 <br/> 
 
@@ -65,9 +65,10 @@ https://desktop.github.com/
 
 <br/> 
 
-```{r img-with-knitr3, echo=FALSE, fig.align='center', out.width='33%', fig.cap=' '}
-knitr::include_graphics("pics/pic2.png")
-```
+<div class="figure" style="text-align: center">
+<img src="pics/pic2.png" alt=" " width="33%" />
+<p class="caption"> </p>
+</div>
 
 <br/> 
 
@@ -80,9 +81,10 @@ knitr::include_graphics("pics/pic2.png")
 
 <br/> 
 
-```{r img-with-knitr4, echo=FALSE, fig.align='center', out.width='100%', fig.cap=' '}
-knitr::include_graphics("pics/pic3.png")
-```
+<div class="figure" style="text-align: center">
+<img src="pics/pic3.png" alt=" " width="100%" />
+<p class="caption"> </p>
+</div>
 
 <br/> 
 
@@ -92,9 +94,10 @@ knitr::include_graphics("pics/pic3.png")
 
 <br/> 
 
-```{r img-with-knitr5, echo=FALSE, fig.align='center', out.width='100%', fig.cap=' '}
-knitr::include_graphics("pics/pic4.png")
-```
+<div class="figure" style="text-align: center">
+<img src="pics/pic4.png" alt=" " width="100%" />
+<p class="caption"> </p>
+</div>
 
 <br/> 
   
@@ -113,9 +116,10 @@ knitr::include_graphics("pics/pic4.png")
 
 <br/> 
 
-```{r img-with-knitr6, echo=FALSE, fig.align='center', out.width='40%', fig.cap=' '}
-knitr::include_graphics("pics/pic5.png")
-```
+<div class="figure" style="text-align: center">
+<img src="pics/pic5.png" alt=" " width="40%" />
+<p class="caption"> </p>
+</div>
 
 <br/> 
 
@@ -125,9 +129,10 @@ knitr::include_graphics("pics/pic5.png")
 
 <br/> 
 
-```{r img-with-knitr7, echo=FALSE, fig.align='center', out.width='70%', fig.cap=' '}
-knitr::include_graphics("pics/pic6.png")
-```
+<div class="figure" style="text-align: center">
+<img src="pics/pic6.png" alt=" " width="70%" />
+<p class="caption"> </p>
+</div>
 
 <br/> 
 
@@ -135,9 +140,10 @@ knitr::include_graphics("pics/pic6.png")
 
 <br/> 
 
-```{r img-with-knitr8, echo=FALSE, fig.align='center', out.width='70%', fig.cap=' '}
-knitr::include_graphics("pics/pic7.png")
-```
+<div class="figure" style="text-align: center">
+<img src="pics/pic7.png" alt=" " width="70%" />
+<p class="caption"> </p>
+</div>
 
 <br/> 
 
