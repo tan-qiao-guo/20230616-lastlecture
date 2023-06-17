@@ -4,12 +4,13 @@ author: "Tan, Qiaoguo"
 date: "2023-06-16"
 output:
   html_document:
-    css: "style.css"
+    css: "latex-style.css"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
 
 选修“环境数据分析与可视化”的同学们，你们好，这个网页是为你而建的。这是这学期我们这门课的最后一讲，你将学习如何建一个完全由你控制的，专业的，学术的网页，并把这个网页托管在GitHub网站，向全世界开放，展示你的想法、学术笔记、科研成果等等。
 
